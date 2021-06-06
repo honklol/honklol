@@ -1,17 +1,16 @@
-## Welcome to
-my GitHub profile  
+## Welcome to my GitHub profile 👋
+Hi! I'm a guy making stuff when he's bored. I'm currently learning PHP and Java. I also play Minecraft when I'm bored too.
 
-# About me
-Hi! I'm a guy making stuff when he's bored. I'm currently learning PHP and soon Java. I also play Minecraft when I'm bored too.
-
-# Languages I code in
-- Python (im a noob in python)
+## Languages I code in
+- Python (kind of bad at it)
 - HTML, CSS, JavaScript
-- PHP (learning it)
 
-# Languages I hope I'll soon be able to code in
+## I'm currently learning:
 - Java
-- C++ or C#
+- PHP
+
+## How to contact me
+Send an email to contact@honk.digital. If you have questions about me or the projects I work on, email me wtih the question(s) at questions@honk.digital instead.
 
 <!--
 **honklol/honklol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

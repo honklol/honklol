@@ -1,5 +1,6 @@
 ## Welcome to my GitHub profile 👋
 Hello there! I'm a guy just doing crazy stuff, cause why not. You can find me [in my Discord server](https://discord.gg/gkXE8GWFRU).
+
 [![github statistics](https://github-readme-stats.vercel.app/api?username=honklol&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true&custom_title=honk%27s%20github%20stats)](https://honk.digital)
 
 ## Languages I code in ☄️

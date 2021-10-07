@@ -1,25 +1,22 @@
 ## Welcome to my GitHub profile 👋
-Hi! I'm a guy making stuff when he's bored. I'm currently learning PHP, Java and Vue. I also play Minecraft when I'm bored too.
-And I sometimes code discord.js/discord.py bots when I'm bored, but I most of the time use discord.js now that discord.py has been discontinued.
-
-[![github meows](https://github-readme-stats.vercel.app/api?username=honklol&theme=vue-dark&show_icons=true&include_all_commits=true&custom_title=honk%27s%20github%20statmeows)](https://honk.digital)
+Hello there! I'm a guy just doing crazy stuff, cause why not. You can find me [in my Discord server](https://discord.gg/gkXE8GWFRU).
+[![github statistics](https://github-readme-stats.vercel.app/api?username=honklol&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true&custom_title=honk%27s%20github%20stats)](https://honk.digital)
 
 ## Languages I code in ☄️
-- Python (kind of bad at it)
-- HTML, CSS, JavaScript
+- [Python](https://python.org) (im bad at it)
+- [NodeJS](https://nodejs.org/en/) (if you can call that a language)
+- [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS) and [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
 ## Frameworks I use ✨
-- Vue.js (i absolutely love it)
-- [GCSS](https://github.com/honklol/gcss) (i made it myself!)
+- [Vue.js](https://vuejs.org)
+- [GCSS](https://github.com/honklol/gcss)
 
 ## I'm currently learning 🌱
 - Java
-- Vue.js
 - PHP
 
 ## How to contact me 📫
-Send an email to contact@honk.digital. If you have questions about me or the projects I work on, email me wtih the question(s) at questions@honk.digital instead.
-You can also DM me, honk#9999.
+Please join my [Discord server](https://discord.gg/gkXE8GWFRU) and create a ticket there.
 
 ## Fun fact ⚡
-The GitHub stats card isn't accurate about total commits. There was many more commits, but they were in private repos.
+I first started learning "coding" stuff in Batch on my dad's laptop (Windows 7). That was over 4 years ago, and that's the beginnings of my coding journey.

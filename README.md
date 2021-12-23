@@ -20,4 +20,4 @@ Hello there! I'm a guy just doing crazy stuff, cause why not. You can find me [i
 Please join my [Discord server](https://discord.gg/gkXE8GWFRU) and create a ticket there.
 
 ## Fun fact ⚡
-I first started learning "coding" stuff in Batch on my dad's laptop (Windows 7). That was over 4 years ago, and that's the beginnings of my coding journey.
+I first started learning "coding" stuff in Batch on my dad's laptop (Windows 7). That was over 4 years ago, and that's the beginning of my coding journey.

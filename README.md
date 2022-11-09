@@ -4,8 +4,8 @@ Hello there! I'm a guy just doing crazy stuff, cause why not. You can find me [i
 [![github statistics](https://github-readme-stats.vercel.app/api?username=honklol&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true&custom_title=honk%27s%20github%20stats)](https://honk.digital)
 
 ## Languages I code in ☄️
-- [Python](https://python.org) (rarely used)
 - [NodeJS](https://nodejs.org/en/) (frequently used)
+- [Java](https://java.com) (semi-frequently used)
 - [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS) and [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
 ## Stuff I use ✨
@@ -16,7 +16,6 @@ Hello there! I'm a guy just doing crazy stuff, cause why not. You can find me [i
 
 ## I'm currently learning 🌱
 - Java
-- PHP
 
 ## How to contact me 📫
 Join my [Discord server](https://discord.gg/gkXE8GWFRU) and create a ticket there.<br>

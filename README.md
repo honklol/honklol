@@ -1,26 +1,67 @@
-## Welcome to my GitHub profile 👋
-Hello there! I'm a guy just doing crazy stuff, cause why not. You can find me [in my Discord server](https://discord.gg/gkXE8GWFRU).
+<h1 align="center">
+  Hi there! I'm honk. 👋
+</h1>
 
-[![github statistics](https://github-readme-stats.vercel.app/api?username=honklol&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true&custom_title=honk%27s%20github%20stats)](https://honk.digital)
+<p align="center">
+  A cool system administrator and an awesome full-stack developer.<br/>
+  If you want to contact me, shoot me an email to <a href="mailto:contact@honk.email">contact@honk.email</a>.
+</p>
 
-## Languages I code in ☄️
-- [NodeJS](https://nodejs.org/en/) (frequently used)
-- [Java](https://java.com) (semi-frequently used)
-- [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS) and [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=honklol&theme=github_dark_dimmed&bg_color=212121&show_icons=true&include_all_commits=true&count_private=true&custom_title=honk%27s%20github%20stats">
+</p>
 
-## Stuff I use ✨
-- [Vue.js](https://vuejs.org) (rarely used)
-- [TailwindCSS](https://tailwindcss.com) (frequently used)
-- [FontAwesome](https://fontawesome.com) (frequently used)
-- [GCSS](https://github.com/MaterialGlobal/gcss) (project halted, not used recently)
+<h3 align="center">
+  Languages
+</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/NodeJS-212121?style=for-the-badge&logo=nodedotjs">
+  <img src="https://img.shields.io/badge/TypeScript-212121?style=for-the-badge&logo=typescript">
+  <img src="https://img.shields.io/badge/JavaScript-212121?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/Java-212121?style=for-the-badge&logo=gradle">
+  <img src="https://img.shields.io/badge/SQL-212121?style=for-the-badge&logo=mysql">
+</p>
 
-## I'm currently learning 🌱
-- Java
+<h3 align="center">
+  Frameworks
+</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-212121?style=for-the-badge&logo=react">
+  <img src="https://img.shields.io/badge/NextJS-212121?style=for-the-badge&logo=nextdotjs">
+  <img src="https://img.shields.io/badge/TailwindCSS-212121?style=for-the-badge&logo=tailwindcss">
+  <img src="https://img.shields.io/badge/FontAwesome-212121?style=for-the-badge&logo=fontawesome">
+</p>
 
-## How to contact me 📫
-Join my [Discord server](https://discord.gg/gkXE8GWFRU) and create a ticket there.<br>
-Or you could also send me an email at root@honk.email.<br>
-Please note that this is less reliable than tickets and I might be slow to respond or not respond at all.
+<h3 align="center">
+  Hosting
+</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Replit-212121?style=for-the-badge&logo=replit">
+  <img src="https://img.shields.io/badge/Railway-212121?style=for-the-badge&logo=railway">
+  <img src="https://img.shields.io/badge/Vercel-212121?style=for-the-badge&logo=vercel">
+  <img src="https://img.shields.io/badge/Akamai-212121?style=for-the-badge&logo=akamai">
+  <img src="https://img.shields.io/badge/OVH-212121?style=for-the-badge&logo=ovh">
+  <img src="https://img.shields.io/badge/Vultr-212121?style=for-the-badge&logo=vultr">
+</p>
 
-## Fun fact ⚡
-My first ever script was in VBS/Batch (I don't remember which one was first), and it was a simple script that would print out some text. Yep, that was 4 years ago. Look at me now - coding websites in NodeJS with NextJS and TailwindCSS.
+<h3 align="center">
+  Software
+</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Slack-212121?style=for-the-badge&logo=slack">
+  <img src="https://img.shields.io/badge/Discord-212121?style=for-the-badge&logo=discord">
+  <img src="https://img.shields.io/badge/Firefox-212121?style=for-the-badge&logo=firefoxbrowser">
+  <img src="https://img.shields.io/badge/Thunderbird-212121?style=for-the-badge&logo=thunderbird">
+  <img src="https://img.shields.io/badge/NGINX-212121?style=for-the-badge&logo=nginx">
+  <img src="https://img.shields.io/badge/VSCode-212121?style=for-the-badge&logo=visualstudiocode">
+</p>
+
+<h3 align="center">
+  Operating Systems
+</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Fedora-212121?style=for-the-badge&logo=fedora">
+  <img src="https://img.shields.io/badge/Ubuntu-212121?style=for-the-badge&logo=ubuntu">
+  <img src="https://img.shields.io/badge/Windows-212121?style=for-the-badge&logo=windows11">
+  <img src="https://img.shields.io/badge/Android-212121?style=for-the-badge&logo=android">
+</p>

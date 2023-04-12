@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/NodeJS-212121?style=for-the-badge&logo=nodedotjs">
   <img src="https://img.shields.io/badge/TypeScript-212121?style=for-the-badge&logo=typescript">
   <img src="https://img.shields.io/badge/JavaScript-212121?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/Rust-212121?style=for-the-badge&logo=rust">
   <img src="https://img.shields.io/badge/Java-212121?style=for-the-badge&logo=gradle">
   <img src="https://img.shields.io/badge/SQL-212121?style=for-the-badge&logo=mysql">
 </p>

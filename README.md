@@ -4,7 +4,7 @@
 
 <p align="center">
   A cool system administrator and an awesome full-stack developer.<br/>
-  If you want to contact me, shoot me an email to <a href="mailto:contact@honk.email">contact@honk.email</a>.
+  If you want to contact me, shoot me an email to <a href="mailto:hello@honk.one">hello@honk.one</a>.
 </p>
 
 <p align="center">
